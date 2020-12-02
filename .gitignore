@@ -1,5 +1,8 @@
+.DS_Store
+Thumbs.db
+.aleph/
+dist/
 /dist
-/node_modules
 /?.?s
 /*.tgz
 /.next
