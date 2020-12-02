@@ -1,1 +1,11 @@
 node_modules
+.DS_Store
+Thumbs.db
+.aleph/
+dist/
+/dist
+/?.?s
+/*.tgz
+/.next
+/.vercel
+/backup
